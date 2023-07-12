@@ -13,6 +13,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-origin
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="Mateus-Mysql" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="Mateus-Java" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 </div>
